@@ -18,6 +18,40 @@ function generateMarkdown(data) {
 
   ${data.description}
 
+
+  ## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#credits)
+- [Contributing](#features)
+- [Tests](#tests)
+- [Contributions](#contribute)
+
+## Installation
+
+${data.installation}
+
+## Usage
+
+${data.usage}
+
+## Credits
+
+${data.credits}
+
+## Features
+
+${data.features}
+
+## How to Contribute
+
+${data.contribute}
+
+## Tests
+
+${data.tests}
 `;
 }
 

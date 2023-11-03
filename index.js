@@ -61,7 +61,7 @@ function init() {
   inquirer.prompt(questions).then((res) => {
     // console.log(res);
     const template = generateMarkdown(res);
-    console.log(template);
+    console.log("README Generated ✅");
 
     writeFile("./TestREADME.md", template, "utf8", (error) => {
       if (error) {
