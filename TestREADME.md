@@ -1,8 +1,10 @@
-# ReadME Generator
+# ReadMe Generator
   
+  ![](https://img.shields.io/badge/License-MIT-blue)
+
   ## Description
 
-  Generates a README off of command line prompts
+  Generates a README file by answering command line prompts
 
 
   ## Table of Contents
@@ -17,7 +19,7 @@
 
 ## Installation
 
-Install it
+None
 
 ## Usage
 
@@ -25,7 +27,7 @@ None
 
 ## Credits
 
-TamirP123
+None
 
 ## Features
 
@@ -38,3 +40,15 @@ None
 ## Tests
 
 None
+
+## License
+
+MIT
+
+## Questions
+
+If you have any questions, please contact me with the information given below.
+
+Github: https://github.com/TamirP123
+
+Email: tamirphillips@live.com

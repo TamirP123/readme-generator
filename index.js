@@ -51,6 +51,25 @@ const questions = [
     message:
       "Go the extra mile and write tests for your application. Then provide examples on how to run them here.",
   },
+  {
+    type: "list",
+    name: "license",
+    message:
+      "The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).",
+      choices: ["MIT", "Apache", "GNU"]
+  },
+  {
+    type: "input",
+    name: "github",
+    message:
+      "Enter your Github username",
+  },
+  {
+    type: "input",
+    name: "email",
+    message:
+      "Enter your email.",
+  },
 ];
 
 // TODO: Create a function to write README file
