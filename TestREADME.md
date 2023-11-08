@@ -4,7 +4,7 @@
 
   ## Description
 
-  Generates a README file by answering command line prompts
+  Generates a ReadMe file based off of command line prompts.
 
 
   ## Table of Contents
@@ -19,27 +19,27 @@
 
 ## Installation
 
-None
+N/A
 
 ## Usage
 
-None
+N/a
 
 ## Credits
 
-None
+N/A
 
 ## Features
 
-None
+N/A
 
 ## How to Contribute
 
-None
+N/A
 
 ## Tests
 
-None
+N/A
 
 ## License
 

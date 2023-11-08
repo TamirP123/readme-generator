@@ -24,9 +24,7 @@ THEN I am taken to the corresponding section of the README
 
 ### Live website and repo
 
-https://github.com/TamirP123/weather-dashboard
-
-https://tamirp123.github.io/weather-dashboard/
+https://github.com/TamirP123/readme-generator
 
 #### Photo of application
 ![Project Image](images/projectImage.png)
